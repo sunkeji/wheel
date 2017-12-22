@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/cp_divider" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:paddingLeft="15dp"
+        android:paddingRight="20dp">
+
+        <TextView
+            android:id="@+id/text_current_city"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical|left"
+            android:text="当前城市:重庆"
+            android:textColor="@color/cp_gray_deep"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/text_selectcurrent_city"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:drawablePadding="5dp"
+            android:gravity="center_vertical|right"
+            android:text="选择区县"
+            android:textColor="@color/cp_gray"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <com.skj.citylist.view.WrapHeightGridView
+        android:id="@+id/gridview_current_city"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/hot_bg"
+        android:cacheColorHint="@android:color/transparent"
+        android:horizontalSpacing="12dp"
+        android:listSelector="@android:color/transparent"
+        android:numColumns="3"
+        android:paddingBottom="15dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="@dimen/side_letter_bar_width"
+        android:paddingTop="15dp"
+        android:scrollbars="none"
+        android:verticalSpacing="12dp" />
+
+</LinearLayout>

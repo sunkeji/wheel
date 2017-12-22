@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">wheel</string>
+    <string name="cp_select_city">选择城市</string>
+    <string name="cp_hot_city">热门城市</string>
+    <string name="cp_located_city">当前位置</string>
+    <string name="cp_hint_search_box">请输入城市名或拼音</string>
+    <string name="cp_nothing_found">没有搜索结果~</string>
+    <string name="cp_locating">正在定位…</string>
+    <string name="cp_located_failed">定位失败</string>
+
+    <string name="recycler_swipe_data_empty">There is no data</string>
+    <string name="recycler_swipe_more_not">No more data</string>
+    <string name="recycler_swipe_click_load_more">Click to load more</string>
+    <string name="recycler_swipe_load_error">Error, please try again</string>
+    <string name="recycler_swipe_load_more_message">Loading, please wait later</string>
+</resources>
