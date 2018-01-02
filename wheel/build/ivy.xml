@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="YiCai" module="wheel" revision="unspecified" status="integration" default="true" publication="20171222171817"/>
+  <info organisation="PerfectTool" module="wheel" revision="unspecified" status="integration" default="true" publication="20171229160730"/>
   <configurations>
     <conf name="androidJacocoAgent" visibility="private"/>
     <conf name="androidJacocoAnt" visibility="private"/>

@@ -38,7 +38,7 @@
             android:textSize="12sp" />
     </LinearLayout>
 
-    <com.skj.citylist.view.WrapHeightGridView
+    <com.skj.wheel.citylist.view.WrapHeightGridView
         android:id="@+id/gridview_current_city"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

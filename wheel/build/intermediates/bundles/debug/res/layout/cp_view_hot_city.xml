@@ -12,7 +12,7 @@
         style="@style/LetterIndexTextViewStyle"
         android:text="@string/cp_hot_city" />
 
-    <com.skj.citylist.view.WrapHeightGridView
+    <com.skj.wheel.citylist.view.WrapHeightGridView
         android:id="@+id/gridview_hot_city"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="albumback">#E1E0DE</color>
     <color name="bar_color">#f4f4f4</color>
+    <color name="black">#000</color>
     <color name="colorAccent">#FF4081</color>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
@@ -18,6 +20,7 @@
     <color name="hot_bg">#eee</color>
     <color name="line_color">#ddd</color>
     <color name="main_color">#ea5513</color>
+    <color name="no_color">#00000000</color>
     <color name="recycler_swipe_color_loading_color1">#55777777</color>
     <color name="recycler_swipe_color_loading_color2">#B1777777</color>
     <color name="recycler_swipe_color_loading_color3">#FF777777</color>
@@ -37,6 +40,7 @@
     <dimen name="side_letter_bar_letter_size">12sp</dimen>
     <dimen name="side_letter_bar_width">35dp</dimen>
     <string name="app_name">wheel</string>
+    <string name="back">返回</string>
     <string name="cp_hint_search_box">请输入城市名或拼音</string>
     <string name="cp_hot_city">热门城市</string>
     <string name="cp_located_city">当前位置</string>
@@ -44,11 +48,15 @@
     <string name="cp_locating">正在定位…</string>
     <string name="cp_nothing_found">没有搜索结果~</string>
     <string name="cp_select_city">选择城市</string>
+    <string name="no_photo">相册没有图片</string>
+    <string name="only_choose_num">超出可选图片张数</string>
+    <string name="preview">预览</string>
     <string name="recycler_swipe_click_load_more">Click to load more</string>
     <string name="recycler_swipe_data_empty">There is no data</string>
     <string name="recycler_swipe_load_error">Error, please try again</string>
     <string name="recycler_swipe_load_more_message">Loading, please wait later</string>
     <string name="recycler_swipe_more_not">No more data</string>
+    <string name="unfinished">完成</string>
     <style name="AnimBottom" parent="@android:style/Animation">
         <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
         <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
@@ -88,5 +96,11 @@
         <item name="android:paddingBottom">8dp</item>
         <item name="android:textSize">16sp</item>
         <item name="android:textColor">@color/cp_gray</item>
+    </style>
+    <style name="line_style">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:background">#DCDCDC</item>
+        <item name="android:gravity">center</item>
     </style>
 </resources>

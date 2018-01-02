@@ -12,6 +12,10 @@
         android:allowBackup="true"
         android:label="@string/app_name"
         android:supportsRtl="true" >
+        <activity android:name="com.skj.wheel.album.activity.AlbumActivity" />
+        <activity android:name="com.skj.wheel.album.activity.ImageFileActivity" />
+        <activity android:name="com.skj.wheel.album.activity.ShowAllPhotoActivity" />
+        <activity android:name="com.skj.wheel.album.activity.ViewGalleryActivity" />
     </application>
 
 </manifest>

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\LepeiAndroid\\YiCai\\wheel\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-de\\values-de.xml",
+            "outputFile": "F:\\app\\PerfectTool\\wheel\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-de\\values-de.xml",
             "map": [
                 {
                     "source": "C:\\Users\\user\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\2d9f458fb5948407eacdd7f349ec39ac\\res\\values-de\\values-de.xml",

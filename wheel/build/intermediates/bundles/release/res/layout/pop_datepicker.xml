@@ -50,20 +50,20 @@
             android:background="@color/bar_color"
             android:orientation="horizontal">
 
-            <com.skj.wheel.widget.wheel.WheelView
+            <com.skj.wheel.wheel.widget.WheelView
                 android:id="@+id/id_year"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1" />
 
-            <com.skj.wheel.widget.wheel.WheelView
+            <com.skj.wheel.wheel.widget.WheelView
                 android:id="@+id/id_moth"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_weight="1" />
 
 
-            <com.skj.wheel.widget.wheel.WheelView
+            <com.skj.wheel.wheel.widget.WheelView
                 android:id="@+id/id_day"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"

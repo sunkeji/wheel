@@ -13,4 +13,10 @@
     <string name="recycler_swipe_click_load_more">Click to load more</string>
     <string name="recycler_swipe_load_error">Error, please try again</string>
     <string name="recycler_swipe_load_more_message">Loading, please wait later</string>
+
+    <string name="preview">预览</string>
+    <string name="unfinished">完成</string>
+    <string name="back">返回</string>
+    <string name="no_photo">相册没有图片</string>
+    <string name="only_choose_num">超出可选图片张数</string>
 </resources>

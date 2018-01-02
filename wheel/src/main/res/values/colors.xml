@@ -27,4 +27,9 @@
     <color name="recycler_swipe_color_loading_color2">#B1777777</color>
     <color name="recycler_swipe_color_loading_color3">#FF777777</color>
 
+    <color name="albumback">#E1E0DE</color>
+
+    <color name="black">#000</color>
+    <color name="no_color">#00000000</color>
+
 </resources>

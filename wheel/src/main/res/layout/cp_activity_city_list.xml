@@ -41,7 +41,7 @@
             android:textStyle="bold"
             android:visibility="gone" />
 
-        <com.skj.citylist.view.SideLetterBar
+        <com.skj.wheel.citylist.view.SideLetterBar
             android:id="@+id/side_letter_bar"
             android:layout_width="20dp"
             android:layout_height="match_parent"

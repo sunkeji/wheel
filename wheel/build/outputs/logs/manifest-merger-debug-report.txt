@@ -1,45 +1,61 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml:1:1-12:12
-INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml:1:1-12:12
-INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml:1:1-12:12
-INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml:1:1-12:12
-INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml:1:1-12:12
-INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml:1:1-12:12
-INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml:1:1-12:12
+ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:1:1-15:12
+INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:1:1-15:12
+INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:1:1-15:12
+INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:1:1-15:12
+INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:1:1-15:12
+INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:1:1-15:12
+INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:1:1-15:12
 	package
-		ADDED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml:3:5-28
-		INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml
-		INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml
+		ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml
+		INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml
-		ADDED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml:1:1-12:12
-		INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml
+		INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml
+		ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:1:1-15:12
+		INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml
-		ADDED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml:1:1-12:12
-		INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml
+		INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml
+		ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:1:1-15:12
+		INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml:1:11-69
+		ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:1:11-69
 application
-ADDED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml:5:5-10:19
+ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:5:5-13:19
 	android:supportsRtl
-		ADDED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml:8:9-35
+		ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:8:9-35
 	android:label
-		ADDED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml:7:9-41
+		ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:7:9-41
 	android:allowBackup
-		ADDED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml:6:9-35
+		ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:6:9-35
+activity#com.skj.wheel.album.activity.AlbumActivity
+ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:9:9-66
+	android:name
+		ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:9:19-63
+activity#com.skj.wheel.album.activity.ImageFileActivity
+ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:10:9-70
+	android:name
+		ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:10:19-67
+activity#com.skj.wheel.album.activity.ShowAllPhotoActivity
+ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:11:9-73
+	android:name
+		ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:11:19-70
+activity#com.skj.wheel.album.activity.ViewGalleryActivity
+ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:12:9-72
+	android:name
+		ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml:12:19-69
 uses-sdk
-INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml
-INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml
-INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml
-INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml
+INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml
+INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml
+INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml
+INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml
-		ADDED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml
-		INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml
+		INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml
+		ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml
+		INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml
-		ADDED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml
-		INJECTED from F:\LepeiAndroid\YiCai\wheel\src\main\AndroidManifest.xml
+		INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml
+		ADDED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml
+		INJECTED from F:\app\PerfectTool\wheel\src\main\AndroidManifest.xml
