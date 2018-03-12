@@ -726,6 +726,7 @@ i、滑轮选择效果（下方为常用三种类型，其他根据需要可自�
  h、TextUtil：自定义文本工具
  i、TimeUtil：时间工具
  f、ToastUtil：提示工具
+ g、Glide:图片处理工具
 
 
 
