@@ -714,7 +714,14 @@ i、滑轮选择效果（下方为常用三种类型，其他根据需要可自�
                 
             }
         });
-
+j、文字滚动播放MyTSView
+ <com.skj.wheel.definedview.MyTSView
+        android:id="@+id/ts_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+     String[] s = new String[]{"ceshi", "cddjdjjd"};
+        tsView.setmAdvertisements(s);
+        
  # 6、自定义工具类
  a、ActivityListUtil:管理项目中所有的activity页面
  b、ClickUtil：对点击事件加延迟
